@@ -51,7 +51,7 @@ export default function Layout(props) {
             <Link to="/">Inicio</Link>
           </li>
           <li>
-            <Link to="/acerca">Acerca</Link>
+            <Link to="/acerca">Sobre</Link>
           </li>
           <li>
             <Link to="/galeria">Galería</Link>
